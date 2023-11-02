@@ -8,7 +8,8 @@
 
 ### Testing done:
 - component rendering
-- redux store wrapper 
+- redux store wrapper
+- dispatch action and test store state
 - user click
 - async api call
 
